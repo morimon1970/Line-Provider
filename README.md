@@ -1,4 +1,4 @@
-# Instagram Provider
+# Line Provider
 
 ## Installation
 
